@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Golden Morning – Digital Self-Care for Women</title>
+  <meta name="description" content="Golden Morning is a digital self-care book designed to help women cultivate calm, balance, and emotional clarity.">
+  <meta name="keywords" content="self-care, wellness, calm, balance, women, digital book, Golden Morning">
+  <meta name="author" content="Mehdi">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="CV3XYZB6leabFC2N4HDLOZSRJ8eCISFsBx892fc" />
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fffdf8;
+      color: #333;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    h1 {
+      font-size: 2.4em;
+      color: #d88c9a;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.2em;
+      max-width: 640px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    .button {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 12px 24px;
+      background-color: #d88c9a;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+    .button:hover {
+      background-color: #c06c7b;
+    }
+  </style>
+</head>
+<body>
+  <h1>Golden Morning 🌸</h1>
+  <p>
+    A digital self-care book crafted for women seeking calm, balance, and emotional renewal.<br>
+    This page also serves for Google Search Console verification.
+  </p>
+  <a href="https://gumroad.com/yourproductlink" target="_blank" class="button">Explore the Book on Gumroad →</a>
+</body>
+</html>
